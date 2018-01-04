@@ -1,0 +1,7 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+
+A2=np.loadtext("sujet1_sig25.txt")
+T1=A1[:,0]
+P1=A1[:,1]
